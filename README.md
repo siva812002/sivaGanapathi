@@ -16,7 +16,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sivaganapathi" height="30" width="40" />
 </a>
 <a href="https://www.skillrack.com/faces/resume.xhtml?id=453145&key=9d7cf774c0a93e523dd71e567eedcc8b3221233b" target="blank">
-<img align="center" src="https://www.facebook.com/skillrackforum/photos/a.316881625033305/1914194165302035/?type=3" alt="Skillrack" height="30" width="40" />
+<img align="center" src="https://in.linkedin.com/company/www.skillrack.com" alt="Skillrack" height="30" width="40" />
 </a>
 </p>
 
