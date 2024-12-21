@@ -44,6 +44,6 @@
 <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco packet tracer" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivaganapathi&show_icons=true&locale=en&layout=compact" alt="sivaganapathi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siva812002&show_icons=true&locale=en&layout=compact" alt="sivaganapathi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivaganapathi&show_icons=true&locale=en" alt="sivaganapathi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siva812002&show_icons=true&locale=en" alt="sivaganapathi" /></p>
