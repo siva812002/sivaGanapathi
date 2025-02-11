@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **React JS, Tailwind CSS, and Spring Boot**
 
-- 💬 Ask me about **Linux, VR Game Development, Industry 4.0, HTML, CSS, JavaScript, and Java**
 
 - 📧 How to reach me **sivaganapathi812002@gmail.com**
 
